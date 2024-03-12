@@ -15,8 +15,7 @@ pathlib
 # Files
 schools_complete.csv
 students_complete.csv
-PyCitySchools_completed.ipynd
-PyCitySchools_starter.ipynd
+PyCitySchools_solution.ipynd
 
 # Sources
 .nunique() was a line of code I found on https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.nunique.html
