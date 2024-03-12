@@ -21,3 +21,5 @@ PyCitySchools_solution.ipynd
 .nunique() was a line of code I found on https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.nunique.html
 .setindex() was a line I found from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
 school_spending_df['Per Student Budget'] = school_spending_df['Per Student Budget'].replace('[\$,]', '', regex=True).astype(float) was a line of code that SlackBot had written for me when I asked for help on what to write here
+.value_counts() was a function I had found on https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+.sort_values() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sort_values.html
